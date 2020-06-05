@@ -176,4 +176,6 @@ You can give your feedback by commenting on the [feedback issue](https://github.
 Also, suggestions for improving this doc are open.
 Share this with your 1st-year juniors to help them out in building their future path.
 
+Contributors [Parth Yadav](https://github.com/parthyadav3105), [Adarsh Yadav](https://github.com/adi0509) and [Pavan Gandhi](https://github.com/iampavangandhi)
+
 Star repo if you like :)
