@@ -1,3 +1,0 @@
-# Reasons why sharing knowledge is good :)
-
-coming up soon...
