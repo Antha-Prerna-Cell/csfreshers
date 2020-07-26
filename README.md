@@ -172,5 +172,5 @@ Also, suggestions for improving this doc are open.
 Share this with your 1st-year juniors to help them out in building their future path.
 
 
-Star repo if you like :)
+Star the repo if you like :)
 
