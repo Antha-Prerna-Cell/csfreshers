@@ -178,4 +178,4 @@ Share this with your 1st-year juniors to help them out in building their future 
 
 Contributors [Parth Yadav](https://github.com/parthyadav3105), [Adarsh Yadav](https://github.com/adi0509) and [Pavan Gandhi](https://github.com/iampavangandhi)
 
-Star repo if you like :)
+Star the repo if you like :)
