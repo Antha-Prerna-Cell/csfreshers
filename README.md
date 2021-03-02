@@ -1,5 +1,8 @@
 # CS-Freshers
 
+[![Join the chat at https://gitter.im/Antha-Prerna-Cell/Freshers](https://badges.gitter.im/Antha-Prerna-Cell/Freshers.svg)](https://gitter.im/Antha-Prerna-Cell/Freshers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+
 
 ## Table of Contents
 0. [Welcome](#welcome-)
